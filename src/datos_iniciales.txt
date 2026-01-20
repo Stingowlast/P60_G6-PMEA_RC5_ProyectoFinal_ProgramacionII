@@ -1,6 +1,0 @@
-LIBRO;L-100;Clean Code;Robert C. Martin;464
-LIBRO;L-101;El Principito;Antoine de Saint-Exupery;96
-REVISTA;R-200;IEEE Spectrum;IEEE;55
-REVISTA;R-201;National Geographic;NatGeo;210
-SOCIO;Carlos Vega;carlos@mail.com;0991112223;Regular
-SOCIO;Maria Leon;maria@mail.com;0994445556;Premium
